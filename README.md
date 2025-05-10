@@ -51,6 +51,7 @@ If anything still is unclear check out the repositories discussions or under my 
 the world of warriors community. For any inquiries or issues related to this repository please
 post on these public threads, so other people can also benefit from it.
 
+
 For personal inquiries you can reach me:
     Discord: mario.sc
     Reddit: u/so_arrogant
